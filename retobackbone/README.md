@@ -13,3 +13,9 @@ Puse el archivo txt que contiene los codigos postales proporcionados para el pro
 Despues lo lei usando un controlador de laravel, se aplico un filtro con el code pasado como parametro.
 El GET recibe el zipcode el cual busca cuando recorre el archivo txt y lo devuelve en formato json.
 
+## INSTALACION 
+npm install
+
+## inicio 
+php artisan serve
+
